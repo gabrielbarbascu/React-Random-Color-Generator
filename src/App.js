@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import useGenerateRandomColor from './useGenerateRandomColor';
 
 const ColorGenerator = () => {
   // State to store the generated color
