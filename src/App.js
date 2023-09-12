@@ -29,3 +29,4 @@ const ColorGenerator = () => {
 };
 
 export default ColorGenerator;
+// Code Sandbox URL: https://codesandbox.io/p/github/gabrielbarbascu/react-random-color-generator/main?workspaceId=fad741de-1ef7-467a-b7f9-e1ef627a43d0
